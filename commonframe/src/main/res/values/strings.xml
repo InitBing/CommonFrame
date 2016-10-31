@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">CommonFrame</string>
+
+    <!-- 时间显示 -->
+    <string name="libs_just">刚刚</string>
+    <string name="libs_before_minute">%1$s分钟前</string>
+    <string name="libs_before_hour">%1$s小时前</string>
+    <string name="libs_today">今天</string>
+    <string name="libs_yestoday">昨天</string>
+    <string name="libs_before_yestoday">前天</string>
+    <string name="libs_n_day_before">%d天前</string>
+    <!-- 通用 -->
+    <string name="common_label_am">上午</string>
+    <string name="common_label_pm">下午</string>
+    <string name="common_label_yesterday">昨天</string>
+
 </resources>
