@@ -63,6 +63,7 @@ group = GROUP_ID
 project.archivesBaseName = ARTIFACT_ID
 version = VERSION_NAME
 
+
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }

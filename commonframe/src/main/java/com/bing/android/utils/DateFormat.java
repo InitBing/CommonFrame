@@ -1,4 +1,4 @@
-package com.bing.commonframe.utils;
+package com.bing.android.utils;
 
 /*
  * File Name：DateFormat.java
@@ -12,7 +12,7 @@ package com.bing.commonframe.utils;
 import android.content.Context;
 
 
-import com.bing.commonframe.R;
+import com.bing.android.R;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

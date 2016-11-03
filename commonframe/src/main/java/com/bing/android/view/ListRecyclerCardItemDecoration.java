@@ -1,4 +1,4 @@
-package com.bing.commonframe.view;
+package com.bing.android.view;
 
 import android.graphics.Rect;
 import android.support.v7.widget.RecyclerView;

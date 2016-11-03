@@ -1,4 +1,4 @@
-package com.bing.commonframe.utils;
+package com.bing.android.utils;
 
 /**
  * Created by Administrator on 2015/11/16 0016.

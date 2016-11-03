@@ -1,4 +1,4 @@
-package com.bing.commonframe.adapter;
+package com.bing.android.adapter;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;

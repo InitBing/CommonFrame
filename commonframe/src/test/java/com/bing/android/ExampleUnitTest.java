@@ -1,4 +1,4 @@
-package com.bing.commonframe;
+package com.bing.android;
 
 import org.junit.Test;
 

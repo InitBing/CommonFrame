@@ -1,5 +1,5 @@
 
-package com.bing.commonframe.utils;
+package com.bing.android.utils;
 
 import android.content.Context;
 import android.graphics.Paint;

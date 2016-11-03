@@ -1,4 +1,4 @@
-package com.bing.commonframe;
+package com.bing.android;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
